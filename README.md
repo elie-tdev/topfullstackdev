@@ -9,7 +9,7 @@
 
 🚀 Have a deep understanding of Web/Mobile software applications, and have the business can count on them to start, run, and grow web operations.
 
-💫 How to reach me joujiyoshino.work@gmail.com or book an [call](https://jouji.netlify.app/booking).
+💫 How to reach me joujiyoshino.work@gmail.com or book a [call](https://jouji.netlify.app/booking).
 
 
 <h3 align="left">Technologies:</h3>
