@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jouji Yoshino</h1>
-<h3 align="center">🏆 Senior Fullstack Developer 🏆</h3>
-
-
-
 👨🏼‍💻 Skilled Software Architect and Engineer with over 10 years of rich experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
 
 🚀 Have a deep understanding of Web/Mobile software applications, and have the business can count on them to start, run, and grow web operations.
