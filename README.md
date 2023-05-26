@@ -5,11 +5,7 @@
 
 👨🏼‍💻 Skilled Software Architect and Engineer with over 10 years of rich experience working in technology architecture, design prototyping, and both waterfall and agile/scrum methodologies.
 
-🎯 Proven ability to leverage full-stack knowledge and experience to build out ideas with modern technologies and best practices. 
-
 🚀 Have a deep understanding of Web/Mobile software applications, and have the business can count on them to start, run, and grow web operations.
-
-💫 How to reach me joujiyoshino.work@gmail.com or book a [call](https://jouji.netlify.app/booking).
 
 
 <h3 align="left">Technologies:</h3>
